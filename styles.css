@@ -1,0 +1,9 @@
+.type-shop_order .column-order_actions .print-preview-button.order-confirmation {
+  display: none;
+  background-color: #FFFFFF; }
+  .type-shop_order .column-order_actions .print-preview-button.order-confirmation:before {
+    color: #008000; }
+.type-shop_order.status-wc-on-hold .column-order_actions .print-preview-button.order-confirmation, .type-shop_order.status-wc-processing .column-order_actions .print-preview-button.order-confirmation, .type-shop_order.status-wc-pending .column-order_actions .print-preview-button.order-confirmation {
+  display: block; }
+
+/*# sourceMappingURL=styles.css.map */
