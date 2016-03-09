@@ -2,11 +2,11 @@
 
 /**
  * Plugin Name: WooCommerce Print Order Confirmation
- * Plugin URI: http://git.githost.de/wordpress/woocommerce-print-order-confirmation
+ * Plugin URI: https://github.com/scrobbleme/woocommerce-print-order-confirmation
  * Description: This plugin allows administrators to print order confirmations. It requires the plugin "WooCommerce Print Invoices & Delivery Notes" to work.
  * Author: Adrian Moerchen
- * Author URI: http://demo.moewe-studio.com/wp/
- * Version: 1.1
+ * Author URI: http://adrian.moe/rchen/
+ * Version: 1.1.1
  *
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
